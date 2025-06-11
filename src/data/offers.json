@@ -60,5 +60,22 @@
       "Mobile app for consumption tracking",
       "Loyalty program with rewards"
     ]
+  },
+  {
+    "id": 5,
+    "name": "Special Resilience Offer",
+    "description": "Enhanced electricity contract with backup power solutions for residential customers.",
+    "targetAudience": "residential",
+    "pricePerKwh": 0.16,
+    "standingCharge": 25,
+    "minimumContractPeriod": 18,
+    "features": [
+      "Backup power system installation option",
+      "Priority restoration during outages",
+      "Smart home energy monitoring included",
+      "Renewable energy credit options",
+      "Annual home energy efficiency audit",
+      "Disaster preparedness consultation"
+    ]
   }
 ]
