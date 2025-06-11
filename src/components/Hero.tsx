@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 // Import the image directly
-import backgroundImage from './NBO homepage.jpg';
+import backgroundImage from '../NBO_homepage.jpg';
 
 const Hero: React.FC = () => {
   return (
@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
       <div 
         className="absolute inset-0 w-full"
         style={{
-          // Use the imported image directly instead of trying to reference it by path
+          backgroundColor: 'black', // couleur de fond noire
           backgroundImage: `url(${backgroundImage})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
