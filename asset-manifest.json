@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/demo1-dirty-power/static/css/main.8c6226af.css",
-    "main.js": "/demo1-dirty-power/static/js/main.3157b50c.js",
+    "main.js": "/demo1-dirty-power/static/js/main.c6d14418.js",
     "static/js/453.14b02d4a.chunk.js": "/demo1-dirty-power/static/js/453.14b02d4a.chunk.js",
     "static/media/NBO homepage.jpg": "/demo1-dirty-power/static/media/NBO homepage.7eec7930abadeca2468d.jpg",
     "index.html": "/demo1-dirty-power/index.html",
     "main.8c6226af.css.map": "/demo1-dirty-power/static/css/main.8c6226af.css.map",
-    "main.3157b50c.js.map": "/demo1-dirty-power/static/js/main.3157b50c.js.map",
+    "main.c6d14418.js.map": "/demo1-dirty-power/static/js/main.c6d14418.js.map",
     "453.14b02d4a.chunk.js.map": "/demo1-dirty-power/static/js/453.14b02d4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c6226af.css",
-    "static/js/main.3157b50c.js"
+    "static/js/main.c6d14418.js"
   ]
 }
